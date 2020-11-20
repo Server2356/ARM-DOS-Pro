@@ -16,3 +16,4 @@ As of November 18th, ARM DOS Pro v1.0.0 is still supported until December 1st!
 ## Reporting a Vulnerability
 
 If vulnerability found, report it in the issues section or report it to security
+https://github.com/Server2356/ARM-DOS-Pro/security/advisories
