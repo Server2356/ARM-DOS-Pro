@@ -13,6 +13,8 @@ currently being supported with security updates.
 | 1.0.0   | :white_check_mark: |
 
 As of November 18th, ARM DOS Pro v1.0.0 is still supported until December 1st!
+## Security Updates
+ARM DOS Pro v1.0.11 should be recevieing it 1st security update by November 23
 ## Reporting a Vulnerability
 
 If vulnerability found, report it in the issues section or report it to security
