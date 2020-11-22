@@ -15,7 +15,8 @@ currently being supported with security updates.
 As of November 18th, ARM DOS Pro v1.0.0 is still supported until December 1st!
 ## Security Updates
 ARM DOS Pro v1.0.11 has recivied it's first security patch/update along with ARM DOS Pro v2.0.0
-The main branch should we updated within a few days with the new security patch
+
+SU2 security patch will be delayed until the release of 2.0.1
 ## Reporting a Vulnerability
 
 If vulnerability found, report it in the issues section or report it to security
