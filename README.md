@@ -4,3 +4,4 @@ Currently there's an beta for ARM DOS Pro and IntBASIC Pro that's open and is fr
 # New info:
 Latest Release: ARM DOS v2.0.1
 ARM DOS Pro might be soon released to the Apple IIgs which currently under experiment!
+And Happy Thanksgiving everyone!
