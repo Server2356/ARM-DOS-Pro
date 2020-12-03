@@ -10,7 +10,7 @@ currently being supported with security updates.
 | 2.0.x   | :white_check_mark: |
 | 2.0.0   | :white_check_mark: |
 | 1.0.x   | :white_check_mark: |
-| 1.0.0   | :white_check_mark: |
+| 1.0.0   | :x:                |
 
 As of December 3, support has ended for ARM DOS Pro v1.0.0, it's recommended to upgrade to latest version that have the new SU patches
 ## Security Updates
