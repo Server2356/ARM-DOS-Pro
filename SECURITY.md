@@ -7,12 +7,13 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
+| 2.X     | :white_check_mark: |
 | 2.0.x   | :white_check_mark: |
 | 2.0.0   | :white_check_mark: |
 | 1.0.x   | :white_check_mark: |
 | 1.0.0   | :x:                |
 
-As of December 3, support has ended for ARM DOS Pro v1.0.0, it's recommended to upgrade to latest version that have the new SU patches
+As of December 3, support has ended for ARM DOS Pro v1.0.0, it's recommended to upgrade to latest version that have the new SU or SP patches
 ## Security Updates
 ARM DOS Pro v1.0.11 has recivied it's first security patch/update along with ARM DOS Pro v2.0.0
 
