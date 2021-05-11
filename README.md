@@ -1,4 +1,4 @@
-# Apple DOS Pro v2.5
+# Apple DOS Pro v2.5.1
 Apple DOS Pro is the Professional edition of Apple DOS with a suite of application and Pro tools like IntBASIC Pro v1.0 R1 (for ARM DOS Pro v1.0.0) and IntBASIC Pro v2.0
 Currently there's an beta for Apple DOS Pro and IntBASIC Pro that's open and is free to test. THE OPERATING SYSTEM IS SAFE TO USE ON REAL HARDWARE (Apple II series except for the Apple IIgs)
 # New info:
