@@ -5,5 +5,4 @@ Currently there's an beta for Apple DOS Pro and IntBASIC Pro that's open and is 
 Latest Release: Apple DOS v2.5
 ARM DOS Pro might be soon released to the Apple IIgs which currently under experiment!
 
-# SP1 ------> Expect January 10
-# Apple DOS Pro v3.0 --------> Expect January 25
+# Apple DOS Pro v3.0 --------> Expect June 12th
